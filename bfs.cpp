@@ -50,5 +50,5 @@ int main(){
    add_edge(adj_list,1,3);
    disp_graph(adj_list,v);
    bfsearch(adj_list,0,v);
-   
+   return 0;
 }
